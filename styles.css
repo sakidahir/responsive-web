@@ -1,0 +1,52 @@
+.flex-nav{
+    padding: 20px;
+    background-color: rgb(70, 79, 79);
+    display: flex;
+    justify-content: space-between;
+
+
+
+}
+
+.nav-links  {
+    display: flex;
+    list-style: none;
+    
+
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: aqua;
+    font-size: 34px;
+    margin: 30px;
+    
+    
+
+
+}
+
+.action-container{
+    font-size: 24px;
+    padding: 10px 20px;
+    margin: 30px;
+    background-color: blue;
+    margin-bottom: 80px;
+    color: white;
+    border: none;
+}
+.logo-container img{
+    width: 120px;
+    
+
+}
+.hero{
+    height: 70vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+
